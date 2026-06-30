@@ -1,4 +1,4 @@
-# 🔒 Coffre Fort ESP32
+# 🔒 Coffre Fort ESP32 AVEC CLAVIER 4X4
 
 Projet complet : Schéma KiCad + Code Arduino + Démo.
 
